@@ -1,4 +1,4 @@
-# TextbaseGame
+# Adventures of Link
 Terminal / Command Prompt text based adventure game.
 
 
